@@ -100,7 +100,7 @@ runStep3 <- function(data, activityLabels) {
 }
 
 # Appropriately labels the data set with descriptive variable names.
-runStep4 <- function(result, features) {
+runStep4 <- function(result) {
     cat("Running step4\n")
     
     # create labeled variable names.
@@ -110,9 +110,10 @@ runStep4 <- function(result, features) {
         } else if (colName == "Y1") {
             return("Activity")
         } else {
-            # Use the original feature names.
+            # create column names in the form of Measurement<N>. the code book
+            # will explain what the actual names mean and their corresponding
+            # characteristics.
             colNumber <- as.numeric(substring(colName, 2))
-            #newColName <- as.character(features[features$V1 == colNumber, ]$V2)
             newColName <- paste("Measurement", as.character(colNumber), sep = "")
             return(newColName)
         }
@@ -138,7 +139,7 @@ main <- function() {
     result <- runStep1(testY, trainY, testX, trainX, subjectTest, subjectTrain) %>%
                 runStep2(features) %>%
                 runStep3(activityLabels) %>%
-                runStep4(getFilteredFeatures()) %>%
+                runStep4 %>%
                 runStep5
     
     cat("Writing tidy dataset\n")
