@@ -43,8 +43,8 @@ loadFiles <- function() {
     initVar("subjectTrain", loadFile, "train/subject_train.txt")
 }
 
-getFilteredFeatures <- function(data) {
-    filter(features, grepl("mean", V2) | grepl("std", V2))
+getFilteredFeatures <- function() {
+    filter(features, grepl("mean", V2, ignore.case = TRUE) | grepl("std", V2, ignore.case = TRUE))
 }
 
 # Merges the training and the test sets to create one data set.
