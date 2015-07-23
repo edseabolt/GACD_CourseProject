@@ -1,4 +1,4 @@
-# This script assumes the UCI HAR Dataset is located in your current working directory.
+# This script assumes the "UCI HAR Dataset" directory is located in your current working directory.
 
 library(dplyr)
 
@@ -28,8 +28,9 @@ loadFiles <- function() {
     cat("Loading messy files\n")
     
     loadFile <- function(fileName) {
+        name <- sprintf("UCI HAR Dataset/%s", fileName)
         cat("Loading", fileName, "\n")
-        tbl_df(read.table(fileName))
+        tbl_df(read.table(name))
     }
     
     initVar("activityLabels", loadFile, "activity_labels.txt")
