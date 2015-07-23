@@ -89,6 +89,6 @@ Output if files were cached:
 
 ### Tidy Dataset
 
-The final output of the script creates a file called ***tidy.txt*** in the working directory. The file dimensions are 181 x 81
+The final output of the script creates a file called ***tidy.txt*** in the working directory. The file dimensions are 181 x 88
 where the first row are the variable names. The first two columns are the Subject and Activity respectively. The other columns
 represent the summarized means of the grouped measurement data. The other 180 rows represent the observational data.
