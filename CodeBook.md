@@ -21,3 +21,9 @@ Measurement83|Mean body acceleration jerk signal along the Z-axis.
 Measurement84|Mean body acceleration jerk signal standard deviation along the X-axis.
 Measurement85|Mean body acceleration jerk signal standard deviation along the Y-axis.
 Measurement86|Mean body acceleration jerk signal standard deviation along the Z-axis.
+Measurement121|Mean body gyroscopic signal along the X-axis.
+Measurement122|Mean body gyroscopic signal along the Y-axis.
+Measurement123|Mean body gyroscopic signal along the Z-axis.
+Measurement124|Mean body gyroscopic signal standard deviation along the X-axis.
+Measurement125|Mean body gyroscopic signal standard deviation along the Y-axis.
+Measurement126|Mean body gyroscopic signal standard deviation along the Z-axis.
