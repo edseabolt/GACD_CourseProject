@@ -43,7 +43,12 @@ Measurement240|Mean body gyroscopic signal magnitude.
 Measurement241|Mean body gyroscopic signal magnitude standard deviation.
 Measurement253|Mean body gyroscopic jerk signal magnitude.
 Measurement254|Mean body gyroscopic jerk signal magnitude standard deviation.
-
+Measurement266|Mean body acceleration frequency along the X-axis.
+Measurement267|Mean body acceleration frequency along the Y-axis.
+Measurement268|Mean body acceleration frequency along the Z-axis.
+Measurement269|Mean body acceleration frequency standard deviation along the X-axis.
+Measurement270|Mean body acceleration frequency standard deviation along the Y-axis.
+Measurement271|Mean body acceleration frequency standard deviation along the Z-axis.
 
 
 
