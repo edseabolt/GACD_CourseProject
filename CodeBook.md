@@ -67,13 +67,25 @@ Measurement426|Average mean body gyroscopic frequency along the Z-axis.
 Measurement427|Average mean body gyroscopic frequency standard deviation along the X-axis.
 Measurement428|Average mean body gyroscopic frequency standard deviation along the Y-axis.
 Measurement429|Average mean body gyroscopic frequency standard deviation along the Z-axis.
-
-
-
-
-
-
-
-
-
-
+Measurement452|Average mean frequency body gyroscopic frequency along the X-axis.
+Measurement453|Average mean frequency body gyroscopic frequency along the Y-axis.
+Measurement454|Average mean frequency body gyroscopic frequency along the Z-axis.
+Measurement503|Average mean body acceleration frequency magnitude.
+Measurement504|Average mean body acceleration frequency magnitude standard deviation.
+Measurement513|Average mean frequency body acceleration frequency magnitude.
+Measurement516|Average mean body body acceleration jerk frequency magnitude.
+Measurement517|Average mean body body acceleration jerk frequency magnitude standard deviation.
+Measurement526|Average mean frequency body body acceleration jerk frequency magnitude.
+Measurement529|Average mean body body gyroscopic frequency magnitude.
+Measurement530|Average mean body body gyroscopic frequency magnitude standard deviation.
+Measurement539|Average mean frequency body body gyroscopic frequency magnitude.
+Measurement542|Average mean body body gyroscopic jerk frequency magnitude.
+Measurement543|Average mean body body gyroscopic jerk frequency magnitude standard deviation.
+Measurement552|Average mean frequency body body gyroscopic jerk frequency magnitude.
+Measurement555|Average angle between body acceleration signal mean and gravity.
+Measurement556|Average angle between body acceleration jerk signal mean and gravity mean.
+Measurement557|Average angle between body gyroscopic signal mean and gravity mean.
+Measurement558|Average angle between body gryoscopic jerk signal mean and gravity mean.
+Measurement559|Average angle between X-axis and gravity mean.
+Measurement560|Average angle between Y-axis and gravity mean.
+Measurement561|Average angle between Z-axis and gravity mean.
