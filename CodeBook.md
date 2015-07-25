@@ -55,6 +55,18 @@ Measurement296|Average mean frequency body acceleration frequency along the Z-ax
 Measurement345|Average mean body acceleration jerk frequency along the X-axis.
 Measurement346|Average mean body acceleration jerk frequency along the Y-axis.
 Measurement347|Average mean body acceleration jerk frequency along the Z-axis.
+Measurement348|Average mean body acceleration jerk frequency standard deviation along the X-axis.
+Measurement349|Average mean body acceleration jerk frequency standard deviation along the Y-axis.
+Measurement350|Average mean body acceleration jerk frequency standard deviation along the Z-axis.
+Measurement373|Average mean frequency body acceleration jerk frequency along the X-axis.
+Measurement374|Average mean frequency body acceleration jerk frequency along the Y-axis.
+Measurement375|Average mean frequency body acceleration jerk frequency along the Z-axis.
+Measurement424|Average mean body gyroscopic frequency along the X-axis.
+Measurement425|Average mean body gyroscopic frequency along the Y-axis.
+Measurement426|Average mean body gyroscopic frequency along the Z-axis.
+Measurement427|Average mean body gyroscopic frequency standard deviation along the X-axis.
+Measurement428|Average mean body gyroscopic frequency standard deviation along the Y-axis.
+Measurement429|Average mean body gyroscopic frequency standard deviation along the Z-axis.
 
 
 
