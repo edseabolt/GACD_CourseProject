@@ -27,3 +27,31 @@ Measurement123|Mean body gyroscopic signal along the Z-axis.
 Measurement124|Mean body gyroscopic signal standard deviation along the X-axis.
 Measurement125|Mean body gyroscopic signal standard deviation along the Y-axis.
 Measurement126|Mean body gyroscopic signal standard deviation along the Z-axis.
+Measurement161|Mean body gyroscopic jerk signal along the X-axis.
+Measurement162|Mean body gyroscopic jerk signal along the Y-axis.
+Measurement163|Mean body gyroscopic jerk signal along the Z-axis.
+Measurement164|Mean body gyroscopic jerk signal standard deviation along the X-axis.
+Measurement165|Mean body gyroscopic jerk signal standard deviation along the Y-axis.
+Measurement166|Mean body gyroscopic jerk signal standard deviation along the Z-axis.
+Measurement201|Mean body acceleration signal magnitude.
+Measurement202|Mean body acceleration signal magnitude standard deviation.
+Measurement214|Mean gravity acceleration signal magnitude.
+Measurement215|Mean gravity acceleration signal magnitude standard deviation.
+Measurement227|Mean body acceleration jerk signal magnitude.
+Measurement228|Mean gravity acceleration standard deviation magnitude.
+Measurement240|Mean body gyroscopic signal magnitude.
+Measurement241|Mean body gyroscopic signal magnitude standard deviation.
+Measurement253|Mean body gyroscopic jerk signal magnitude.
+Measurement254|Mean body gyroscopic jerk signal magnitude standard deviation.
+
+
+
+
+
+
+
+
+
+
+
+
