@@ -3,7 +3,7 @@
 Column Name|Variable Name|Value/Explanation
 ---|---|---
 Subject|Subject|The subject who performed the activity for each window sample. Its range is from 1 to 30.
-Activity|Activity|The activity the subject was performing during analysis. 
+Activity|Activity|The activity the subject was performing during analysis. * WALKING * WALKING_UPSTAIRS
 |Activity|Activity|WALKING
 |Activity|Activity|WALKING_UPSTAIRS
 |Activity|Activity|WALKING_DOWNSTAIRS
