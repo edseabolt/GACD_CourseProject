@@ -2,7 +2,7 @@
 Column Name|Variable Name|Value/Explanation
 ---|---|---
 Subject|Subject|The subject who performed the activity for each window sample. Its range is from 1 to 30.
-Activity|Activity|The activity the subject was performing during analysis. Value will be one of: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+Activity|Activity|The activity the subject was performing during analysis. Value will be one of: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 Measurement1|tBodyAcc-mean()-X|
 Measurement2|tBodyAcc-mean()-Y|
 Measurement3|tBodyAcc-mean()-Z|
